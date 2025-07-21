@@ -1,7 +1,6 @@
 -- ==========================================
 -- Script: create_database_and_schemas.sql
--- Purpose: Initializes the DataWarehouse database
---          and sets up Bronze, Silver, and Gold schemas
+-- Purpose: Initializes the DataWarehouse database and sets up Bronze, Silver, and Gold schemas
 -- ==========================================
 
 -- Switch to master to create a new database
