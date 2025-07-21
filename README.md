@@ -28,12 +28,14 @@ This structure helps ensure transparency, modularity, and reusability across the
 
 ## Repository Structure
 
+```
 /
-├── datasets/           # Raw and cleaned mock data files
-├── scripts/            # SQL scripts for ETL and transformations
-├── docs/               # Architecture diagrams, project notes
-├── tests/              # SQL test cases to validate transformations
-└── README.md           # Project documentation
+├── datasets/   # Raw and cleaned mock data files  
+├── scripts/    # SQL scripts for ETL and transformations  
+├── docs/       # Architecture diagrams, project notes  
+├── tests/      # SQL test cases to validate transformations  
+└── README.md   # Project documentation
+```
 ---
 
 ## Deliverables
