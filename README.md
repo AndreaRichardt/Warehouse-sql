@@ -30,10 +30,9 @@ This structure helps ensure transparency, modularity, and reusability across the
 
 ```
 /
-├── datasets/   # Raw and cleaned mock data files  
+├── datasets/   # Raw data files  
 ├── scripts/    # SQL scripts for ETL and transformations  
-├── docs/       # Architecture diagrams, project notes  
-├── tests/      # SQL test cases to validate transformations  
+├── docs/       # Architecture diagrams, project notes   
 └── README.md   # Project documentation
 ```
 ---
