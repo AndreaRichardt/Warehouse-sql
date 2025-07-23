@@ -21,7 +21,7 @@ This structure helps ensure transparency, modularity, and reusability across the
 - **SQL Server** – Primary database and ETL engine
 - **T-SQL** – Data transformation and querying
 - **SSMS** – Development environment
-- **Excel / CSV** – Input mock datasets
+- **Excel / CSV** – Input datasets
 - **Markdown** – Documentation
 
 ---
